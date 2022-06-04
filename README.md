@@ -1,6 +1,6 @@
 # PYTHON STRINGS
 >## Answer each question with a code solution.
-1. Create a srting and print it.
+1. Create a string and print it.
 1. Take a string input and print it's length.
 1. Print the last word of the string `Python is great` using slices.
 1. Print the each word in different line of string `python is everywhere`.
