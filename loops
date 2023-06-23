@@ -1,20 +1,22 @@
-Write a program to print numbers from 1 to 10 using a for loop.
-Write a program to print the multiplication table of a given number using a while loop.
-Write a program to find the sum of all even numbers between 1 and 100 using a for loop.
-Write a program to check if a given number is prime or not using a while loop.
-Write a program to calculate the factorial of a number using a for loop.
-Write a program to print the Fibonacci series up to a given limit using a while loop.
-Write a program to find the largest element in an array using a for loop.
-Write a program to reverse a given string using a while loop.
-Write a program to print the ASCII values of all uppercase letters using a for loop.
-Write a program to check if a given string is a palindrome using a while loop.
-Write a program to calculate the average of a list of numbers using a for loop.
-Write a program to find the smallest element in an array using a while loop.
-Write a program to calculate the sum of digits of a number using a for loop.
-Write a program to check if a given year is a leap year using a while loop.
-Write a program to print the multiplication table of numbers from 1 to 5 using a for loop.
-Write a program to find the factorial of a number using a while loop.
-Write a program to count the number of vowels in a given string using a for loop.
-Write a program to check if a given number is a perfect square using a while loop.
-Write a program to find the largest and smallest elements in an array using a for loop.
-Write a program to reverse the order of words in a sentence using a while loop.
+# loops
+- Write a program to print numbers from 1 to 10 using a for loop.
+- Write a program to print the multiplication table of a given number using a while loop.
+- Write a program to find the sum of all even numbers between 1 and 100 using a for loop.
+- Write a program to check if a given number is prime or not using a while loop.
+- Write a program to calculate the factorial of a number using a for loop.
+- Write a program to print the Fibonacci series up to a given limit using a while loop.
+- Write a program to find the largest element in an array using a for loop.
+- Write a program to reverse a given string using a while loop.
+- Write a program to print the ASCII values of all uppercase letters using a for loop.
+- Write a program to check if a given string is a palindrome using a while loop.
+- Write a program to calculate the average of a list of numbers using a for loop.
+- Write a program to find the smallest element in an array using a while loop.
+- Write a program to calculate the sum of digits of a number using a for loop.
+- Write a program to check if a given year is a leap year using a while loop.
+- Write a program to print the multiplication table of numbers from 1 to 5 using a for loop.
+- Write a program to find the factorial of a number using a while loop.
+- Write a program to count the number of vowels in a given string using a for loop.
+- Write a program to check if a given number is a perfect square using a while loop.
+- Write a program to find the largest and smallest elements in an array using a for loop.
+- Write a program to reverse the order of words in a sentence using a while loop.
+- 
