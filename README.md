@@ -4,4 +4,5 @@ Practice questions for python students
 - ## [String practice questions](https://github.com/digipodium/Digipodium-Python-Practice-questions/blob/main/Strings.md)
 - ## [List practice question](https://github.com/digipodium/Digipodium-Python-Practice-questions/blob/main/lists.md)
 - ## [Dictionary practice question](https://github.com/digipodium/Digipodium-Python-Practice-questions/blob/main/dictionary.md)
+- ## [Numpy practice question](https://github.com/digipodium/Digipodium-Python-Practice-questions/blob/main/numpy.md)
 - more to follow
